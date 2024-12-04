@@ -15,4 +15,5 @@ My name is Waleed Georgy. I'm a programmer and researcher who is interested in m
 ![Static Badge](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=openjdk&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoSize=auto&labelColor=white)
+![Static Badge](https://img.shields.io/badge/HuggingFace-green?style=for-the-badge&logo=huggingface&logoSize=auto&labelColor=black&color=yellow)
 ![Static Badge](https://img.shields.io/badge/Photoshop-%2300aeff?style=for-the-badge&logo=adobephotoshop&logoSize=auto&labelColor=black)
