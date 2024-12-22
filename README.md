@@ -11,6 +11,9 @@ My name is Waleed Georgy. I'm a programmer and researcher who is interested in m
 ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=%230769AD&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoSize=big&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Express.js-gray?style=for-the-badge&logo=express&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=openjdk&labelColor=black)
@@ -20,9 +23,6 @@ My name is Waleed Georgy. I'm a programmer and researcher who is interested in m
 ![Static Badge](https://img.shields.io/badge/Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoSize=auto&labelColor=black)
 
 ## What am I planning to learn next?
-![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoSize=auto&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoSize=big&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Express.js-gray?style=for-the-badge&logo=express&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/EJS-%23B4CA65?style=for-the-badge&logo=ejs&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Web3.js-%23F16822?style=for-the-badge&logo=web3dotjs&logoSize=auto&labelColor=black)
