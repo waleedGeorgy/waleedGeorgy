@@ -25,5 +25,4 @@ My name is Waleed Georgy. I'm a programmer and researcher who is interested in m
 
 ## What am I planning to learn next?
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoSize=auto&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Web3.js-%23F16822?style=for-the-badge&logo=web3dotjs&logoSize=auto&labelColor=black)
-
+![Static Badge](https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vuedotjs&logoSize=auto&labelColor=black)
