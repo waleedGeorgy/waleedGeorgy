@@ -17,11 +17,9 @@ My name is Waleed Georgy. I'm a programmer and researcher who is interested in m
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=openjdk&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Android-%2334A853?style=for-the-badge&logo=android&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/HuggingFace-%23FFD21E?style=for-the-badge&logo=huggingface&logoSize=auto&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoSize=auto&labelColor=black)
 
 ## What am I planning to learn next?
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoSize=auto&labelColor=black)
