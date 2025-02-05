@@ -11,6 +11,7 @@ My name is Waleed Georgy. I'm a programmer and researcher who is interested in m
 ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=%230769AD&labelColor=black)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoSize=big&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Express.js-gray?style=for-the-badge&logo=express&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/EJS-%23B4CA65?style=for-the-badge&logo=ejs&logoSize=auto&labelColor=black)
@@ -22,6 +23,5 @@ My name is Waleed Georgy. I'm a programmer and researcher who is interested in m
 ![Static Badge](https://img.shields.io/badge/HuggingFace-%23FFD21E?style=for-the-badge&logo=huggingface&logoSize=auto&labelColor=black)
 
 ## What am I planning to learn next?
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vuedotjs&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=sass&logoSize=auto&labelColor=black)
