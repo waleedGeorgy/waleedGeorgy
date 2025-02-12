@@ -21,9 +21,9 @@ My name is Waleed Georgy. I'm a programmer and researcher who is interested in m
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/HuggingFace-%23FFD21E?style=for-the-badge&logo=huggingface&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Internet%20Computer-%233B00B9?style=for-the-badge&logo=internet%20computer&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Motoko-%23fbb03b?style=for-the-badge)
 
 ## What am I planning to learn next?
 ![Static Badge](https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vuedotjs&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=sass&logoSize=auto&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Internet%20Computer-%233B00B9?style=for-the-badge&logo=internet%20computer&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Motoko-%23fbb03b?style=for-the-badge)
