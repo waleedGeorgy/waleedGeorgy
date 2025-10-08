@@ -1,9 +1,9 @@
-## Hi there and welcome to my GitHub! 👋
+# Hi there and welcome to my GitHub! 👋
 My name is Waleed Georgy. I'm a programmer and researcher who is interested in many things, but mainly machine learning, deep learning and finding new solutions for NP-complete and NP-hard problems. I've also recently got into full-stack development and already managed to build various different projects.<br />
 I always strife to perfect myself and learn new things. I have a strong background in teaching, researching, building different kinds of projects and working in a team.<br />
 I'm also multilingual, which helps me look at things and analyze them from different angles.
 
-## What am I interested in and have experience working with?
+## My Stack
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoSize=big&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoSize=big&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoSize=big&labelColor=black)
