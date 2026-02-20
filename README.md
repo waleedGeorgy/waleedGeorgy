@@ -11,6 +11,7 @@ I've strong multilingual abilities, able to quickly adapt to new technologies an
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NextJS-%23000000?style=for-the-badge&logo=nextdotjs&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/TanStack-%23000000?style=for-the-badge&logo=tanstack&labelColor=black&color=white)
 ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoSize=big&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Express.js-gray?style=for-the-badge&logo=express&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/EJS-%23B4CA65?style=for-the-badge&logo=ejs&logoSize=auto&labelColor=black)
